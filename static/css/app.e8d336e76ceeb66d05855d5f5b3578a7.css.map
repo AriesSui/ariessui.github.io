@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.e8d336e76ceeb66d05855d5f5b3578a7.css"],"names":[],"mappings":"AACA,KACI,6CAAmD,CACnD,kCAAmC,CACnC,iCACJ","file":"app.e8d336e76ceeb66d05855d5f5b3578a7.css","sourcesContent":["\n#app {\n    font-family: \"Avenir\", Helvetica, Arial, sans-serif;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n}\n"]}
